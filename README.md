@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- [Code Source](https://github.com/ervn12/rockPaperScissors)
+- [Code Source](https://rockpaperscissors-tusp.onrender.com/)
 
 ## Our process
 
